@@ -1,5 +1,7 @@
 # VIS-LWIR patch dataset   
 
+### !!!Note: The complete training and testing code (Integrates multiple networks) can be found in [[Link](https://github.com/YuChuang1205/RRL-Net)]
+
 ### A brief introduction to the VIS-LWIR patch dataset
 VIS-LWIR patch dataset patch dataset is an optical and LWIR image patch matching dataset with the patch size of 64 × 64 pixels based on [[paper(dataset)](https://ieeexplore.ieee.org/document/7789530)] and FAST keypoint extraction. The dataset contains a total of 21370 pairs of cross-spectral image patches with equal numbers of positive and negative samples. training set : test set=4 : 1 (17096 : 4274).   
 
